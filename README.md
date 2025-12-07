@@ -19,4 +19,4 @@ I'm currently the Electronics Control Team Lead at [C ONE Studio](https://github
 
 Feel free to connect with me if you share similar interests or want to collaborate on projects!
 
-[![MoonFeather's GitHub stats](https://github-readme-stats.vercel.app/api?username=120MF&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Card](https://githubcard.com/120MF.svg)
